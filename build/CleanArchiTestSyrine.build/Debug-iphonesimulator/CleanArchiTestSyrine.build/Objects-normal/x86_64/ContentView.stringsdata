@@ -1,0 +1,16 @@
+{
+  "source": "/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Tree List"
+      },
+      {
+        "comment": "",
+        "key": "Error"
+      }
+    ]
+  },
+  "version": 1
+}

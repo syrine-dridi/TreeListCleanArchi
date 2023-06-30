@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+CleanArchiTestSyrine in CleanArchiTestSyrine, no dependencies

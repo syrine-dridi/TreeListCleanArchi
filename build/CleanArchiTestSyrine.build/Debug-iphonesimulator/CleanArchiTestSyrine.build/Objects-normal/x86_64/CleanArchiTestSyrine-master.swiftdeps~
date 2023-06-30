@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "b6d3b799f51b20ee5cdb173606a559c4c8f5473e783ffb0b819be3d0a4f7a28a"
+build_start_time: [1687353386, 347121953]
+build_end_time: [1687353386, 403105974]
+inputs:
+  "/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/CleanArchiTestSyrineApp.swift": !private [1687340240, 486484050]
+  "/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/ContentView.swift": !private [1687350961, 707561492]
+  "/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Data/Entities/FieldEntity.swift": !private [1687346052, 403754711]
+  "/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Data/Entities/RecordElementEntity.swift": !private [1687352207, 945296764]
+  "/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Data/Entities/RecordEntity.swift": !private [1687350329, 195050239]
+  "/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Data/Entities/RecordsEntity.swift": !private [1687352355, 615459203]
+  "/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Data/Repositories/TreeRepositoryImp.swift": !private [1687350567, 489069223]
+  "/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Data/dataSources/TreeDataSourceImpl.swift": !private [1687353381, 30804395]
+  "/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Domain/Models/FieldsModel.swift": !private [1687345997, 201810598]
+  "/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Domain/Models/RecordElementModel.swift": !private [1687352355, 578813791]
+  "/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Domain/Models/RecordModel.swift": !private [1687350329, 181010007]
+  "/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Domain/Models/RecordsModel.swift": !private [1687352355, 603028297]
+  "/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Domain/Repositories/TreesRepository.swift": !private [1687350567, 511764049]
+  "/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Domain/UseCases/getTreeUseCase.swift": !private [1687350920, 613834857]
+  "/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Domain/dataSources/TreeDataSource.swift": !private [1687350120, 456438541]
+  "/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Presentation/ViewModels/TreeListViewModel.swift": !private [1687350757, 422187566]
+  "/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Utils/Constants.swift": !private [1687334853, 311910867]

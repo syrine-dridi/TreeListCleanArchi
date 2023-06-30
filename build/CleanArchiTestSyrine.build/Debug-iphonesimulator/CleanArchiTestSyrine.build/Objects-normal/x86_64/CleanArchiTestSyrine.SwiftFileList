@@ -1,0 +1,15 @@
+/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Data/dataSources/TreeDataSourceImpl.swift
+/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Utils/Constants.swift
+/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Data/Entities/RecordsEntity.swift
+/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Presentation/ViewModels/TreeListViewModel.swift
+/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Domain/UseCases/getTreeUseCase.swift
+/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/ContentView.swift
+/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Domain/Models/FieldsModel.swift
+/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Data/Entities/FieldEntity.swift
+/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Data/Entities/RecordElementEntity.swift
+/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/CleanArchiTestSyrineApp.swift
+/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Data/Entities/RecordEntity.swift
+/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Domain/Models/RecordModel.swift
+/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Data/Repositories/TreeRepositoryImp.swift
+/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Domain/dataSources/TreeDataSource.swift
+/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Domain/Repositories/TreesRepository.swift

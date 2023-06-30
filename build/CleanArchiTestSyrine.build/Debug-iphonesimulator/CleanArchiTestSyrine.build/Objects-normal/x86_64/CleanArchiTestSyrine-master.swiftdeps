@@ -1,0 +1,20 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "b6d3b799f51b20ee5cdb173606a559c4c8f5473e783ffb0b819be3d0a4f7a28a"
+build_start_time: [1687417615, 227581024]
+build_end_time: [1687417615, 824613094]
+inputs:
+  "/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/CleanArchiTestSyrineApp.swift": [1687340240, 486484050]
+  "/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/ContentView.swift": [1687417429, 179913043]
+  "/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Data/Entities/FieldEntity.swift": [1687360620, 916160106]
+  "/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Data/Entities/RecordElementEntity.swift": [1687360620, 871222734]
+  "/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Data/Entities/RecordEntity.swift": [1687360620, 897726058]
+  "/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Data/Entities/RecordsEntity.swift": [1687360620, 884956836]
+  "/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Data/Repositories/TreeRepositoryImp.swift": [1687417264, 293848514]
+  "/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Data/dataSources/TreeDataSourceImpl.swift": [1687417264, 272696018]
+  "/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Domain/Models/FieldsModel.swift": [1687360643, 192862987]
+  "/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Domain/Models/RecordModel.swift": [1687360690, 134419679]
+  "/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Domain/Repositories/TreesRepository.swift": [1687417264, 306226253]
+  "/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Domain/UseCases/getTreeUseCase.swift": [1687417264, 244688510]
+  "/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Domain/dataSources/TreeDataSource.swift": [1687417327, 566783905]
+  "/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Presentation/ViewModels/TreeListViewModel.swift": [1687417376, 288827896]
+  "/Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Utils/Constants.swift": [1687334853, 311910867]

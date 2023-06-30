@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F58668CC-FDE7-4948-BE23-146F9EBFECD2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9445EE09-E6FC-493F-8437-ABE96C0B2462"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CleanArchiTestSyrine/Domain/UseCases/getTreeUseCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "execute()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "957F80D9-F6E2-4AA6-BD76-6D494B714988"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CleanArchiTestSyrine/Domain/UseCases/getTreeUseCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "execute()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD264DC8-DEC7-45B9-9252-14381AF0FB43"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CleanArchiTestSyrine/Domain/UseCases/getTreeUseCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "execute()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E7841E5-DA32-4D38-9507-DBC21834F4CF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CleanArchiTestSyrine/Domain/UseCases/getTreeUseCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "execute()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3175E1EA-D632-4270-8469-D6D82B244715"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CleanArchiTestSyrine/Data/Repositories/TreeRepositoryImp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "getTrees()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3175E1EA-D632-4270-8469-D6D82B244715 - 8965f675e2b711ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for CleanArchiTestSyrine.TreeRepositoryImpl.getTrees() async throws -&gt; CleanArchiTestSyrine.RecordsModel"
+                  moduleName = "CleanArchiTestSyrine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Data/Repositories/TreeRepositoryImp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "74">
+               </Location>
+               <Location
+                  uuid = "3175E1EA-D632-4270-8469-D6D82B244715 - 25adc34939e386ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for CleanArchiTestSyrine.TreeRepositoryImpl.getTrees() async throws -&gt; CleanArchiTestSyrine.RecordsModel"
+                  moduleName = "CleanArchiTestSyrine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Data/Repositories/TreeRepositoryImp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "3175E1EA-D632-4270-8469-D6D82B244715 - 7168c44ba48ef5e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CleanArchiTestSyrine.TreeRepositoryImpl.getTrees() async throws -&gt; CleanArchiTestSyrine.RecordsModel"
+                  moduleName = "CleanArchiTestSyrine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Data/Repositories/TreeRepositoryImp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "50">
+               </Location>
+               <Location
+                  uuid = "3175E1EA-D632-4270-8469-D6D82B244715 - 9d552cae9b9d67ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for CleanArchiTestSyrine.TreeRepositoryImpl.getTrees() async throws -&gt; CleanArchiTestSyrine.RecordsModel"
+                  moduleName = "CleanArchiTestSyrine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Data/Repositories/TreeRepositoryImp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "42">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4844F0E3-5506-4563-BB20-3EE1BE65AA12"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CleanArchiTestSyrine/Data/dataSources/TreeDataSourceImpl.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "getTrees()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B14D9FE-726D-4106-A4E1-1634F9DC6F33"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CleanArchiTestSyrine/Data/dataSources/TreeDataSourceImpl.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "getTrees()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6B14D9FE-726D-4106-A4E1-1634F9DC6F33 - 390c699df51c0d67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CleanArchiTestSyrine.TreeDataSourceImpl.getTrees() async throws -&gt; CleanArchiTestSyrine.RecordsModel"
+                  moduleName = "CleanArchiTestSyrine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Data/dataSources/TreeDataSourceImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1105">
+               </Location>
+               <Location
+                  uuid = "6B14D9FE-726D-4106-A4E1-1634F9DC6F33 - 9d0600b8960f9f66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for CleanArchiTestSyrine.TreeDataSourceImpl.getTrees() async throws -&gt; CleanArchiTestSyrine.RecordsModel"
+                  moduleName = "CleanArchiTestSyrine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Data/dataSources/TreeDataSourceImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1047">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E9192322-DE6E-4B11-B429-0DBBA341735C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CleanArchiTestSyrine/Data/dataSources/TreeDataSourceImpl.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "getTrees()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E9192322-DE6E-4B11-B429-0DBBA341735C - 390c699df51c0d39"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CleanArchiTestSyrine.TreeDataSourceImpl.getTrees() async throws -&gt; CleanArchiTestSyrine.RecordsModel"
+                  moduleName = "CleanArchiTestSyrine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Data/dataSources/TreeDataSourceImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "2142">
+               </Location>
+               <Location
+                  uuid = "E9192322-DE6E-4B11-B429-0DBBA341735C - 9d0600b8960f9f38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for CleanArchiTestSyrine.TreeDataSourceImpl.getTrees() async throws -&gt; CleanArchiTestSyrine.RecordsModel"
+                  moduleName = "CleanArchiTestSyrine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.dridi/Desktop/Ios/CleanArchiTestSyrine/CleanArchiTestSyrine/Data/dataSources/TreeDataSourceImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "2080">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

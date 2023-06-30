@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+CleanArchiTestSyrine in CleanArchiTestSyrine, no dependencies
+CleanArchiTestSyrineTests in CleanArchiTestSyrine, depends on:
+CleanArchiTestSyrine in CleanArchiTestSyrine (explicit)
+CleanArchiTestSyrineUITests in CleanArchiTestSyrine, depends on:
+CleanArchiTestSyrine in CleanArchiTestSyrine (explicit)

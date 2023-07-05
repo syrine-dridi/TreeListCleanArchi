@@ -9,4 +9,6 @@ import Foundation
 
 public struct RecordsEntity: Decodable {
     let records : [RecordElementEntity]
+
+    
 }

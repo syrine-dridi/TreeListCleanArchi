@@ -12,7 +12,6 @@ import UIKit
 @MainActor
     class TreeListViewModel : ObservableObject {
         
-        
         let getTreesUseCase = GetTreeUseCase(repo: TreeRepositoryImpl(dataSource: TreeDataSourceImpl()))
         
         @Published var trees: [RecordModel]?
@@ -27,7 +26,7 @@ import UIKit
                 self.trees = listTree
             case .failure(let error):
                 self.trees = []
-                errorMessage = error.localizedDescription
+                errorMessage = HandleError.checkErrors(error: error)
                 hasError = true
             }
         }

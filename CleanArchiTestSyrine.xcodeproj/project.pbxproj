@@ -27,6 +27,8 @@
 		F133A7BA2A41B6F500521561 /* RecordEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = F133A7B92A41B6F500521561 /* RecordEntity.swift */; };
 		F133A7BC2A41B70400521561 /* RecordsEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = F133A7BB2A41B70400521561 /* RecordsEntity.swift */; };
 		F133A7BE2A41B71A00521561 /* FieldEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = F133A7BD2A41B71A00521561 /* FieldEntity.swift */; };
+		F1D3E0E02A5573A700C8633A /* HttpError.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D3E0DF2A5573A700C8633A /* HttpError.swift */; };
+		F1D3E0E22A55954700C8633A /* HandleError.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D3E0E12A55954700C8633A /* HandleError.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -73,6 +75,8 @@
 		F133A7C62A41B88100521561 /* info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = info.plist; sourceTree = "<group>"; };
 		F133A7CA2A41B8A100521561 /* info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = info.plist; sourceTree = "<group>"; };
 		F133A7CE2A41B8B700521561 /* info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = info.plist; sourceTree = "<group>"; };
+		F1D3E0DF2A5573A700C8633A /* HttpError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HttpError.swift; sourceTree = "<group>"; };
+		F1D3E0E12A55954700C8633A /* HandleError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HandleError.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +126,7 @@
 		F120D09F2A41E8C600B25D2A /* Network */ = {
 			isa = PBXGroup;
 			children = (
+				F1D3E0DF2A5573A700C8633A /* HttpError.swift */,
 			);
 			path = Network;
 			sourceTree = "<group>";
@@ -169,6 +174,7 @@
 		F120D0BD2A4200F100B25D2A /* Utils */ = {
 			isa = PBXGroup;
 			children = (
+				F1D3E0E12A55954700C8633A /* HandleError.swift */,
 				F120D0BE2A42010000B25D2A /* Constants.swift */,
 			);
 			path = Utils;
@@ -258,6 +264,7 @@
 		F133A7B72A41B6BB00521561 /* Data */ = {
 			isa = PBXGroup;
 			children = (
+				F1D3E0DC2A5565A000C8633A /* Mapper */,
 				F133A7B82A41B6C100521561 /* Entities */,
 				F120D0B72A41FFB400B25D2A /* dataSources */,
 				F120D0B42A41FBE100B25D2A /* Repositories */,
@@ -274,6 +281,13 @@
 				F120D0CD2A432A8500B25D2A /* RecordElementEntity.swift */,
 			);
 			path = Entities;
+			sourceTree = "<group>";
+		};
+		F1D3E0DC2A5565A000C8633A /* Mapper */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Mapper;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -408,9 +422,11 @@
 			files = (
 				F120D0BC2A42003600B25D2A /* TreeDataSourceImpl.swift in Sources */,
 				F120D0BF2A42010000B25D2A /* Constants.swift in Sources */,
+				F1D3E0E22A55954700C8633A /* HandleError.swift in Sources */,
 				F133A7BC2A41B70400521561 /* RecordsEntity.swift in Sources */,
 				F120D0C42A42E9B100B25D2A /* TreeListViewModel.swift in Sources */,
 				F120D0C12A42E13300B25D2A /* getTreeUseCase.swift in Sources */,
+				F1D3E0E02A5573A700C8633A /* HttpError.swift in Sources */,
 				F133A7902A41B6A900521561 /* ContentView.swift in Sources */,
 				F120D0CB2A42EC8D00B25D2A /* FieldsModel.swift in Sources */,
 				F133A7BE2A41B71A00521561 /* FieldEntity.swift in Sources */,
